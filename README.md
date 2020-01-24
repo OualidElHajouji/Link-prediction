@@ -1,8 +1,6 @@
 # Link-prediction
 Machine Learning project about link prediction for the french web.
-Team: Oualid EL HAJOUJI
-      Othman GAIZI
-      Jad SAADANI
+Team: Oualid EL HAJOUJI, Othman GAIZI, Jad SAADANI
 
 # Introduction
 
