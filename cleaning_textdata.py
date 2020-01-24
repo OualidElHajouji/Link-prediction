@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 23:44:07 2019
 
-@author: othmangaizi
-"""
 
 import networkx as nx
 import csv
